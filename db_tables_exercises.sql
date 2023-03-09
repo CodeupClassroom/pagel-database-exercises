@@ -89,7 +89,14 @@ CREATE TABLE `dept_emp` (
 */
 
 
+
+
+
 -- Show the SQL that created the dept_manager table. 
 -- Write the SQL it takes to show this as your exercise solution.
 
 show create table dept_manager;
+
+
+
+-- ADDED THIS EXTRA LINE TO MY FILE
